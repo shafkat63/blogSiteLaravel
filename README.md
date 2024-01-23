@@ -19,3 +19,4 @@ before that you have to create a filament id or
 you can use normal id as at time point I did not add the rule 
 privilege so anyone can access the filament admin panel.
 
+This was a interview project
